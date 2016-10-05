@@ -1,9 +1,13 @@
-# Uechi.APM.Services.Socket.Server.Windows
+<strong>Uechi.APM.Services.Socket.Server for Windows</strong>
 
-Uechi APM Service Socket Server é um Client do monitor de desempenho de servidores Open Source para plataformas Windows.
+Uechi APM Service Socket Server Client (Application Performance Management) is an Open Source server performance monitor for Windows platforms.
 
-Maiores informações, por favor acesse http://uechi.com.br/uechi-apm-web/.
+<img class="alignnone wp-image-2614 size-full" src="http://uechi.com.br/wp-content/uploads/img003ue-e1475682905871.jpg" alt="img003ue" width="800" height="408" />
 
-Demonstração do Monitor APM Simulado acesse: http://vm.uechi.com.br/Uechi.APM.Web/.
+For further information, please visit <a href="https://github.com/paulouechi/Uechi.APM.Web/">https://github.com/paulouechi/Uechi.APM.Web/</a>.
 
-Contato por e-mail: paulouechi@gmail.com
+APM Simulated Monitor demo visit: <a href="http://vm.uechi.com.br/Uechi.APM.Web/">http://vm.uechi.com.br/Uechi.APM.Web/</a>.
+
+Contact by email: <a></a>paulouechi@gmail.com
+
+My blog <a href="http://uechi.com.br/uechi-apm-web-eng/">http://uechi.com.br/uechi-apm-web-eng/</a>
