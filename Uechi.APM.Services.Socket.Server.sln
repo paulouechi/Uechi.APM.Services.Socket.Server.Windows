@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uechi.APM.Services.Socket.Server", "Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server.csproj", "{F2205047-194C-49FE-B034-D8C6E918A9C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uechi.Socket.Library", "Uechi.Socket.Library\Uechi.Socket.Library.csproj", "{4E7333C9-9DB2-4ABC-98AF-AE4B9205B7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uechi.APM.Services.Socket.Server.Console", "Uechi.APM.Services.Socket.Server.Console\Uechi.APM.Services.Socket.Server.Console.csproj", "{9C2B257F-DAF0-4E43-987D-3722319479EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Uechi.APM.Services.Socket.Server.Setup", "Uechi.APM.Services.Socket.Server.Setup\Uechi.APM.Services.Socket.Server.Setup.vdproj", "{1F2A0879-2529-417A-87B8-4013973783A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2205047-194C-49FE-B034-D8C6E918A9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2205047-194C-49FE-B034-D8C6E918A9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2205047-194C-49FE-B034-D8C6E918A9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2205047-194C-49FE-B034-D8C6E918A9C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7333C9-9DB2-4ABC-98AF-AE4B9205B7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7333C9-9DB2-4ABC-98AF-AE4B9205B7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7333C9-9DB2-4ABC-98AF-AE4B9205B7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7333C9-9DB2-4ABC-98AF-AE4B9205B7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2B257F-DAF0-4E43-987D-3722319479EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2B257F-DAF0-4E43-987D-3722319479EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2B257F-DAF0-4E43-987D-3722319479EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2B257F-DAF0-4E43-987D-3722319479EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2A0879-2529-417A-87B8-4013973783A7}.Debug|Any CPU.ActiveCfg = Debug
+		{1F2A0879-2529-417A-87B8-4013973783A7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

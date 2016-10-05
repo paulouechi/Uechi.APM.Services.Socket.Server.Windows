@@ -1,0 +1,10 @@
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\bin\Debug\Uechi.APM.Services.Socket.Server.exe.config
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\bin\Debug\Uechi.APM.Services.Socket.Server.exe
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\bin\Debug\Uechi.APM.Services.Socket.Server.pdb
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\bin\Debug\Uechi.Socket.Library.dll
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\bin\Debug\Uechi.Socket.Library.pdb
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\obj\Debug\Uechi.APM.Services.Socket.Server.csprojResolveAssemblyReference.cache
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\obj\Debug\Uechi.APM.Services.Socket.Server.ProjectInstaller.resources
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\obj\Debug\Uechi.APM.Services.Socket.Server.csproj.GenerateResource.Cache
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\obj\Debug\Uechi.APM.Services.Socket.Server.exe
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.APM.Services.Socket.Server\obj\Debug\Uechi.APM.Services.Socket.Server.pdb

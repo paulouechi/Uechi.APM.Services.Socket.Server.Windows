@@ -1,0 +1,4 @@
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.Socket.Library\bin\Debug\Uechi.Socket.Library.dll
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.Socket.Library\bin\Debug\Uechi.Socket.Library.pdb
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.Socket.Library\obj\Debug\Uechi.Socket.Library.dll
+C:\Projetos\Net\Net.GitHub\Uechi.APM.Services.Socket.Server\Uechi.Socket.Library\obj\Debug\Uechi.Socket.Library.pdb
